@@ -10,7 +10,7 @@ public class Customer {
     }
 
     public Customer() {
-        this("Meow",1000.00d,"meow@meow.com")
+        this("Meow",1000.00d,"meow@meow.com");
     }
 
     public Customer(String name, String email) {
