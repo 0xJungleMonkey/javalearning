@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/carpetcaculator/carpetcaculator.iml" filepath="$PROJECT_DIR$/src/carpetcaculator/carpetcaculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/javalearning.iml" filepath="$PROJECT_DIR$/javalearning.iml" />
     </modules>
   </component>
